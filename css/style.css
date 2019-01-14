@@ -59,7 +59,7 @@ ul li{
 }
 
 .navigation ul li{
-	border-right:1px solid #CCCCCC;
+	border-right:1px solid blue;
 	position:relative;
 	display:inline;		
 
